@@ -1,5 +1,6 @@
 {
 	"Robot|block": "ロボット",
+	"Robot.radio|block": "無線グループ：No, 0～83 %n",
 	"Robot.Motor|block": "モータ 右:0 左:1 %channel|後方<=>前方:-100<=>100 %voltage",
 	"Robot.Servo|block": "サーボ 右靴:0 左靴:1 右足:2 左足:3 %channel|角度:-45～45 %degree",
 	"Robot.LED|block": "LED 赤:0 黄:1 緑:2 青:3 %channel|電圧:0～100 %voltage"
