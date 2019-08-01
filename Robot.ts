@@ -13,7 +13,7 @@ namespace Robot {
     const M_STANBY  = 0 //B00   // スタンバイ   
     const M_REVERSE = 1 //B01   // 逆転
     const M_NORMAL  = 2 //B10   // 正転
-    const M_BRAKE   = 3 //B11   // ブレーキ
+    const M_BRAKE   = 3 //B11   // ブレーキ 
 
     const DRV_MIN      =    0 //  0V
     const DRV_MAX      =  100 //  3Vmax
